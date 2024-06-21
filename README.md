@@ -14,3 +14,8 @@ L'objet de l'association est :
 > - clubs de loisirs, relations / activités festives (soirées…)
 
 Le site internet de l'association est [fluffevent.fr](https://fluffevent.fr/).
+
+
+## Documents
+
+- [Statuts](Statuts.md)
