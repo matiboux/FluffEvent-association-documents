@@ -8,7 +8,7 @@ L'objet de l'association est :
 
 > Promouvoir la découverte et la passion de l'anthropomorphisme
 
-L'objet de l'association est :
+Les domaines d'activités de l'association sont :
 
 > - culture, pratiques d’activités artistiques, culturelles / loisirs scientifiques et techniques
 > - clubs de loisirs, relations / activités festives (soirées…)
