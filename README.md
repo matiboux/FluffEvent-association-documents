@@ -12,3 +12,5 @@ L'objet de l'association est :
 
 > - culture, pratiques d’activités artistiques, culturelles / loisirs scientifiques et techniques
 > - clubs de loisirs, relations / activités festives (soirées…)
+
+Le site internet de l'association est [fluffevent.fr](https://fluffevent.fr/).
