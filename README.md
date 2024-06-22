@@ -1,6 +1,6 @@
-# Fluff Event association documents
+# Documents de l'association Fluff Event
 
-## Summary
+## Association
 
 Fluff Event est une association loi 1901 à but non lucratif, déclarée en préfecture de l'Isère le 5 avril 2023, publiée au Journal Officiel des Associations et Fondations d'Entreprise (JOAFE) le 18 avril 2023 sous le numéro RNA W381027566.
 
