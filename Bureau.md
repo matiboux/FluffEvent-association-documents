@@ -1,7 +1,8 @@
 # Bureau de l’Association “Fluff Event“
 
-Mis à jour le 3 juillet 2024.
+_Mis à jour le 3 juillet 2024._
 
+Le bureau est l'organe exécutif administratif de l'association Fluff Event.
 
 ---
 
