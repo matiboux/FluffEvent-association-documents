@@ -138,6 +138,32 @@ Les délibérations sont prises à la majorité relative des membres présents o
 
 ## ARTICLE 13 - CONSEIL D'ADMINISTRATION
 
+Le Conseil d'Administration est l'organe décisionnel de l'Association. Il assure la gestion et la direction de l'Association, et veille à la réalisation de ses objectifs.
+
+Le Conseil d'Administration est composé de 2 membres au minimum.
+
+Les membres du Conseil d'Administration sont :  
+\- les membres fondateurs,  
+\- des membres nommés par le Conseil d'Administration existant et confirmés par l'Assemblée Générale.
+
+Les membres fondateurs sont membres de droit du Conseil d'Administration et bénéficient d'un mandat à durée indéterminée, sous réserve de leur démission ou de leur exclusion pour motif grave.
+
+Les membres nommés sont admis au Conseil d'Administration sur proposition d'un membre du Conseil d'Administration existant, approbation à la majorité du Conseil d'Administration puis confirmation par l'Assemblée Générale à la majorité simple des membres présents ou représentés.  
+Les membres nommés et confirmés ont un mandat de 3 ans, renouvelable par un vote lors d'une Assemblée Générale, sous réserve de leur démission ou de leur exclusion pour motif grave.
+
+<!-- La démarche de nomination et de confirmation des membres du Conseil d'Administration est définie dans le Règlement Intérieur de l'Association. -->
+
+Un membre du Conseil d'Administration peut démissionner de son poste en adressant un courrier en recommandé ou un courrier électronique avec accusé de réception à l’attention du Président du Conseil d'Administration.
+
+<!-- L'exclusion d'un membre du Conseil d'Administration peut être décidée par l'Assemblée Générale pour motif grave, sur décision prise à la majorité des deux tiers des membres présents ou représentés. -->
+
+L'exlusion d'un membre du Conseil d'Administration peut être décidée, pour motif grave, par :  
+\- le Conseil d'Administration, sur décision prise à la majorité des deux tiers des membres du Conseil d'Administration,  
+\- l'Assemblée Générale, sur décision prise à la majorité absolue des membres de l'Association, présents ou absents.
+
+
+---
+
 L'Association est dirigée par un Conseil d'Administration de 2 membres au minimum. Élu pour deux années par l'Assemblée Générale. Les membres sont rééligibles autant de fois qu’ils le souhaitent.
 
 Un membre du Conseil d'Administration peut démissionner de son poste en adressant un courrier en recommandé ou un courrier électronique avec accusé de réception à l’attention du Président.
@@ -149,6 +175,7 @@ Le Conseil peut, s'il le souhaite, accepter un nouveau poste d’un membre de l�
 Le Conseil d'Administration se réunit au moins une fois tous les ans, sur convocation du Président, ou à la demande de la moitié de ses membres.
 
 Les décisions sont prises à 66% des voix du conseil d’administration. En dessous, la voix du Président est prépondérante.
+
 
 ## ARTICLE 14 – LE BUREAU 
 
