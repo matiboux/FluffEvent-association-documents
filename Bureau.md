@@ -2,7 +2,7 @@
 
 _Mis à jour le 3 juillet 2024._
 
-Le bureau est l'organe exécutif administratif de l'association Fluff Event.
+Le Bureau est l'organe exécutif administratif de l'Association "Fluff Event".
 
 ---
 
