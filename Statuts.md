@@ -138,7 +138,7 @@ Les délibérations sont prises à la majorité relative des membres présents o
 
 ## ARTICLE 13 - CONSEIL D'ADMINISTRATION
 
-Le Conseil d'Administration est l'organe décisionnel de l'Association. Il assure la gestion et la direction de l'Association, et veille à la réalisation de ses objectifs.
+Le Conseil d'Administration est l'organe décisionnel de l'Association. Il assure la gestion et la direction de l'Association, et veille à la réalisation de ses objectifs et de ses missions dans le respect des présents statuts, du Règlement Intérieur et des décisions prises par l'Assemblée Générale.
 
 Le Conseil d'Administration est composé de 2 membres au minimum.
 
@@ -149,7 +149,7 @@ Les membres du Conseil d'Administration sont :
 Les membres fondateurs sont membres de droit du Conseil d'Administration et bénéficient d'un mandat à durée indéterminée, sous réserve de leur démission ou de leur exclusion pour motif grave.
 
 Les membres nommés sont admis au Conseil d'Administration sur proposition d'un membre du Conseil d'Administration existant, approbation à la majorité du Conseil d'Administration puis confirmation par l'Assemblée Générale à la majorité simple des membres présents ou représentés.  
-Les membres nommés et confirmés ont un mandat de 3 ans, renouvelable par un vote lors d'une Assemblée Générale, sous réserve de leur démission ou de leur exclusion pour motif grave.
+Les membres nommés et confirmés ont un mandat de 3 ans, renouvelable par un vote lors d'une Assemblée Générale, sous réserve de leur démission, de la révocation de leur mandat pour motif grave, ou de leur exclusion pour motif grave.
 
 <!-- La démarche de nomination et de confirmation des membres du Conseil d'Administration est définie dans le Règlement Intérieur de l'Association. -->
 
@@ -157,10 +157,19 @@ Un membre du Conseil d'Administration peut démissionner de son poste en adressa
 
 <!-- L'exclusion d'un membre du Conseil d'Administration peut être décidée par l'Assemblée Générale pour motif grave, sur décision prise à la majorité des deux tiers des membres présents ou représentés. -->
 
-L'exlusion d'un membre du Conseil d'Administration peut être décidée, pour motif grave, par :  
+La révocation du mandat de membre du Conseil d'Administration peut être décidée, pour motif grave, par :  
 \- le Conseil d'Administration, sur décision prise à la majorité des deux tiers des membres du Conseil d'Administration,  
 \- l'Assemblée Générale, sur décision prise à la majorité absolue des membres de l'Association, présents ou absents.
 
+
+---
+
+<!-- Article [X+4] : Responsabilité et Contrôle du Conseil d'Administration -->
+
+<!-- Le CA est l'organe directeur de l'association et veille à la réalisation des objectifs définis par l'Assemblée Générale. -->
+<!-- Le CA est tenu de présenter un rapport d'activité et un bilan financier annuels à l'AG, pour approbation. -->
+<!-- L'AG a le pouvoir de révoquer un ou plusieurs membres du CA en cas de faute grave ou de non-respect des engagements pris, à la majorité des deux tiers des membres présents ou représentés. -->
+En cas de crise ou de désaccord profond, une AG extraordinaire peut être convoquée par [proportion] des membres pour statuer sur le maintien ou non du CA en place.
 
 ---
 
