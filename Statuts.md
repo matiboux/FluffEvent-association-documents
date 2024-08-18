@@ -214,20 +214,6 @@ Le Conseil d'Administration peut, à la majorité de ses membres, convoquer une 
 
 <!-- Les fonctions sont liées au mandat à l'élection du Bureau. Les membres du Bureau sont élus pour une durée de 2 ans, renouvelable. -->
 
-<!-- --- -->
-
-<!--
-Le Conseil d'Administration choisit parmi ses membres le composant un bureau composé de :
-
-1\) Un-e président-e
-
-2\) Un-e trésorier-e, et s'il y a lieu, un-e trésorier-e, adjoint-e-
-
-3\) Si besoin ; un-e secrétaire, et s'il y a lieu, un-e- secrétaire adjoint-e-
-
-Les fonctions de président et de trésorier ne sont pas cumulables.
--->
-
 
 ## ARTICLE 15 – INDEMNITES
 
