@@ -179,6 +179,41 @@ Les décisions sont prises à 66% des voix du conseil d’administration. En des
 
 ## ARTICLE 14 – LE BUREAU 
 
+Le Bureau est l'organe exécutif de l'Association. Il assure la gestion quotidienne de l'Association et l'exécution des décisions prises par le Conseil d'Administration et l'Assemblée Générale.
+
+Le Bureau est composé de 2 membres au minimum.
+
+Les membres du Bureau sont des membres de l'Association candidats selon les modalités définies dans le Règlement Intérieur de l'Association et élus par l'Assemblée Générale à la majorité des membres présents ou représentés. Les membres du Bureau sont élus pour un mandat de 2 ans, renouvelable, et pour une ou plusieurs fonctions spécifiques au sein du Bureau.
+
+<!-- définir modalités candidature nouvelle, définir modalités candidature renouvelée -->
+
+Les candidatures pour les postes du Bureau sont présentées par le CA ou par les membres de l'association. Chaque candidat doit obtenir la majorité des suffrages exprimés par les membres de l'AG pour être élu.
+
+Le Bureau est composé des fonctions suivantes, partagées entre les membres élus :
+
+\- Un.e Président.e, et s'il y a lieu, un.e Vice-Président.e
+
+\- Un.e Trésorier.e, et s'il y a lieu, un.e Vice-Trésorier.e
+
+\- Un.e Secrétaire, et s'il y a lieu, un.e Vice-Secrétaire
+
+Les fonctions de Président et de Trésorier ne sont pas cumulables.
+
+Des fonctions supplémentaires peuvent être créées si nécessaire et définies dans le Règlement Intérieur, à l'initiative du Conseil d'Administration.
+
+Les membres du Bureau peuvent cumuler leur mandat avec celui de membre du Conseil d'Administration.
+
+Le Bureau est responsable devant le Conseil d'Administration, qui exerce un contrôle régulier sur ses activités : consultation des membres du Bureau, des rapports d'activité, des comptes financiers, etc.
+
+Le Conseil d'Administration peut, à la majorité de ses membres, convoquer une réunion extraordinaire du Conseil d'Administration et du Bureau pour exiger des explications sur des décisions ou actions spécifiques.
+
+<!-- Le Bureau est également tenu de présenter un rapport moral et financier annuel à l'Assemblée Générale pour approbation. -->
+
+<!-- Les fonctions sont liées au mandat à l'élection du Bureau. Les membres du Bureau sont élus pour une durée de 2 ans, renouvelable. -->
+
+<!-- --- -->
+
+<!--
 Le Conseil d'Administration choisit parmi ses membres le composant un bureau composé de :
 
 1\) Un-e président-e
@@ -188,6 +223,7 @@ Le Conseil d'Administration choisit parmi ses membres le composant un bureau com
 3\) Si besoin ; un-e secrétaire, et s'il y a lieu, un-e- secrétaire adjoint-e-
 
 Les fonctions de président et de trésorier ne sont pas cumulables.
+-->
 
 
 ## ARTICLE 15 – INDEMNITES
