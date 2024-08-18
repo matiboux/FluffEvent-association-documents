@@ -149,7 +149,9 @@ Les membres du Conseil d'Administration sont :
 Les membres fondateurs sont membres de droit du Conseil d'Administration et bénéficient d'un mandat à durée indéterminée, sous réserve de leur démission ou de leur exclusion pour motif grave.
 
 Les membres nommés sont admis au Conseil d'Administration sur proposition d'un membre du Conseil d'Administration existant, approbation à la majorité du Conseil d'Administration puis confirmation par l'Assemblée Générale à la majorité simple des membres présents ou représentés.  
-Les membres nommés et confirmés ont un mandat de 3 ans, renouvelable par un vote lors d'une Assemblée Générale, sous réserve de leur démission, de la révocation de leur mandat pour motif grave, ou de leur exclusion pour motif grave.
+Les membres nommés et confirmés ont un mandat de 3 ans, renouvelable par un vote lors d'une Assemblée Générale, sous réserve de leur démission, de la révocation de leur mandat ou de leur exclusion pour motif grave.
+
+Pour le renouvellement de son mandat, un membre du Conseil d'Administration doit adresser sa candidature par lettre recommandée ou courrier électronique avec accusé de réception au Président du Conseil d'Administration, au moins 2 jours avant l'Assemblée Générale.
 
 <!-- La démarche de nomination et de confirmation des membres du Conseil d'Administration est définie dans le Règlement Intérieur de l'Association. -->
 
@@ -161,29 +163,21 @@ La révocation du mandat de membre du Conseil d'Administration peut être décid
 \- le Conseil d'Administration, sur décision prise à la majorité des deux tiers des membres du Conseil d'Administration,  
 \- l'Assemblée Générale, sur décision prise à la majorité absolue des membres de l'Association, présents ou absents.
 
+La révocabilité d'un membre du Conseil d'Administration peut également être décidée sur demande du Président du Conseil d'Administration, après confirmation à la majorité des deux tiers des membres du Conseil d'Administration, en cas de faute grave, de non-respect des engagements pris par le membre concerné vis-à-vis de ses fonctions et de l'Association sans motif valable (raisons de santé, familiales ou professionnelles), ou d'incapacité de participer activement à l'Association.
 
----
+<!-- (IDEA) En cas de crise ou de désaccord profond, une AG extraordinaire peut être convoquée par [proportion] des membres pour statuer sur le maintien ou non du CA en place. -->
 
-<!-- Article [X+4] : Responsabilité et Contrôle du Conseil d'Administration -->
+<!-- (OLD) sera considéré par le Président comme démissionnaire de son poste. -->
 
-<!-- Le CA est l'organe directeur de l'association et veille à la réalisation des objectifs définis par l'Assemblée Générale. -->
-<!-- Le CA est tenu de présenter un rapport d'activité et un bilan financier annuels à l'AG, pour approbation. -->
-<!-- L'AG a le pouvoir de révoquer un ou plusieurs membres du CA en cas de faute grave ou de non-respect des engagements pris, à la majorité des deux tiers des membres présents ou représentés. -->
-En cas de crise ou de désaccord profond, une AG extraordinaire peut être convoquée par [proportion] des membres pour statuer sur le maintien ou non du CA en place.
+<!-- (OLD) Le Conseil peut, s'il le souhaite, accepter un nouveau poste d’un membre de l’association dans le Conseil d’Administration par son propre choix afin de répondre aux besoins administratifs de l'association. Il est procédé au remplacement définitif de cette nouvelle prise en poste par la prochaine Assemblée Générale lors des votes des membres composant le Conseil d’Administration. -->
 
----
+Le Conseil d'Administration élit en son sein un Président du Conseil d'Administration, à la majorité des membres du Conseil d'Administration. Le Président organise et arbitre les réunions du Conseil d'Administration.
 
-L'Association est dirigée par un Conseil d'Administration de 2 membres au minimum. Élu pour deux années par l'Assemblée Générale. Les membres sont rééligibles autant de fois qu’ils le souhaitent.
+D'autres rôles organisationnels peuvent être attribués aux membres du Conseil d'Administration, selon les besoins de l'Association et les compétences des membres.
 
-Un membre du Conseil d'Administration peut démissionner de son poste en adressant un courrier en recommandé ou un courrier électronique avec accusé de réception à l’attention du Président.
+Le Conseil d'Administration se réunit au moins une fois par an, sur convocation du Président du Conseil d'Administration, ou à la demande de la moitié des membres du Conseil d'Administration.
 
-Tout membre du Conseil d'Administration qui, sans excuse jugée valable (raisons de santé, familiale ou raisons professionnelles), ne prendrait pas ses responsabilités vis-à-vis de son poste ou qui serait dans l'incapacité à long terme de participer activement à l'association (tâches à réalisées en amont, pendant, et après les événements) sera considéré par le Président comme démissionnaire de son poste.
-
-Le Conseil peut, s'il le souhaite, accepter un nouveau poste d’un membre de l’association dans le Conseil d’Administration par son propre choix afin de répondre aux besoins administratifs de l'association. Il est procédé au remplacement définitif de cette nouvelle prise en poste par la prochaine Assemblée Générale lors des votes des membres composant le Conseil d’Administration.
-
-Le Conseil d'Administration se réunit au moins une fois tous les ans, sur convocation du Président, ou à la demande de la moitié de ses membres.
-
-Les décisions sont prises à 66% des voix du conseil d’administration. En dessous, la voix du Président est prépondérante.
+Les décisions courantes sont prises à la majorité des membres du Conseil d'Administration. En cas de partage, la voix du Président du Conseil d'Administration est prépondérante.
 
 
 ## ARTICLE 14 – LE BUREAU 
