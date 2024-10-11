@@ -102,7 +102,7 @@ L’Association pourrait faire de la vente et location de produits, produits ach
 
 L'Assemblée Générale ordinaire comprend tous les membres de l'association à l’exception des adhérents temporaires. Les statuts prévoient que les membres de l'Association qui ne sont pas à jour dans leurs cotisations ne peuvent pas participer aux votes lors de l'Assemblée Générale.
 
-Elle se réunit au minimum une fois dans l'année. Quinze jours au moins avant la date fixée, les membres de l'Association sont convoqués par les soins du Président par lettre ou courriers électroniques. L'ordre du jour figure sur les convocations.
+Elle se réunit au minimum une fois dans l'année. Sept (7) jours avant la date fixée, les membres de l'Association sont convoqués par les soins du Président par lettre ou courriers électroniques. L'ordre du jour figure sur les convocations.
 
 Selon les possibilités et conditions de réalisation, la réunion peut être suivie par visioconférence pour les adhérents.
 
@@ -114,9 +114,11 @@ Le Secrétaire se charge de rédiger le procès-verbal et rapport de la réunion
 
 Sont abordés en priorité les points inscrits à l'ordre du jour ainsi que la ratification du Règlement Intérieur. Les décisions sont prises à la majorité des voix des membres présents ou représentés.
 
-Si un membre de l’association ne peut assister personnellement à une assemblée, il peut s’y faire représenter par un mandataire. La condition à remplir est de remplir le document de procuration “Pouvoir de représentation assemblée générale association loi 1901” mis à disposition, et de la transmettre au Conseil d'Administration par e-mail, au moins 3 jours avant la prochaine assemblée, lors de l’envoi par mail de l’invitation à l’Assemblée générale.
+Chaque membre de l'Association présent à une Assemblée possède une voix lors des votes.
 
-Chaque membre de l’Assemblée a donc une voix. Mais les membres peuvent bénéficier de voix supplémentaires, s’ils ont des procurations qui leur ont été données par les membres n’assistant pas à l’Assemblée. (Maximum de 3 voix supplémentaires).
+Si un membre de l’association ne peut assister personnellement à une assemblée, il peut s’y faire représenter par un membre mandataire. La condition à remplir est de remplir le document de procuration “Pouvoir de représentation assemblée générale association loi 1901” mis à disposition, et de la transmettre au Conseil d'Administration par e-mail, au moins 3 jours avant la prochaine assemblée, lors de l’envoi par mail de l’invitation à l’Assemblée générale.
+
+Un membre ne peut pas représenter plus d'un (1) membre de l'Association à la fois lors d'une Assemblée. Un membre mandataire ayant reçu la procuration d'un autre membre de l'Association dispose alors de deux voix lors des votes : la sienne et celle du membre qu’il représente.
 
 Il est procédé, après épuisement de l'ordre du jour, au renouvellement des membres du Conseil d'Administration selon les places vacantes.
 
