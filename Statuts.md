@@ -276,11 +276,18 @@ Toutes les fonctions, y compris celles des membres du conseil d’administration
 Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 
 
-## ARTICLE - 16 - REGLEMENT INTERIEUR 
+## ARTICLE 16 - REGLEMENT INTERIEUR 
 
-Un règlement intérieur peut être établi par le conseil d'administration, qui le fait alors approuver par l'assemblée générale. La mise à jour du règlement intérieur est communiquée aux membres de l’Association via les moyens de communication adaptés.
+Un Règlement Intérieur peut être établi et modifié par le Conseil d'Administration.
 
-Ce règlement éventuel est destiné à fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association. Cela inclut de définir les missions et responsabilités des membres et bénévoles engagés dans le fonctionnement administratif et logistique de l’association, les frais de cotisations, la gestion du matériel.
+Le Règlement Intérieur doit être communiqué aux membres de l’Association via les moyens de communication adaptés après son établissement et après chaque modification.
+Le nouveau Règlement Intérieur entre en application vingt-quatre (24) heures après sa communication aux membres.
+
+<!-- TODO: Pouvoir d'influence de l'AG dans les rédactions du règlement. -->
+
+Le Règlement Intérieur est destiné à :
+\- Préciser les conditions d'application et les procédures mentionnées dans les articles des présents statuts.
+\- Fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association. Cela inclut de définir les missions et responsabilités des membres et bénévoles engagés dans le fonctionnement administratif et logistique de l’association, les frais de cotisations, la gestion du matériel.
 
 
 ## ARTICLE - 17 - DISSOLUTION 
