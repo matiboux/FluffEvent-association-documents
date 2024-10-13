@@ -255,7 +255,7 @@ Les conditions pour démarrer la procédure de révocation d'un membre du Bureau
 Un membre du Bureau peut être exclu du Bureau pour motif grave ou incapacité, sur demande du Président du Bureau et confirmation à la majorité des deux tiers des membres du Bureau.
 La procédure d'exclusion d'un membre du Bureau et la définition des motifs valables sont définis dans le Règlement Intérieur de l'Association.
 
-Le Bureau est responsable devant le Conseil d'Administration, qui exerce un contrôle régulier sur ses activités : consultation des membres du Bureau, des rapports d'activité, des comptes financiers, etc.
+Le Bureau est responsable devant le Conseil d'Administration qui exerce un contrôle régulier sur ses activités : consultation des membres du Bureau, des rapports d'activité, des comptes financiers, etc.
 
 Le Conseil d'Administration peut, à la majorité de ses membres, convoquer une réunion extraordinaire du Conseil d'Administration et du Bureau pour exiger des explications sur des décisions ou actions spécifiques.
 
@@ -285,8 +285,8 @@ Le nouveau Règlement Intérieur entre en application vingt-quatre (24) heures a
 
 <!-- TODO: Pouvoir d'influence de l'AG dans les rédactions du règlement. -->
 
-Le Règlement Intérieur est destiné à :
-\- Préciser les conditions d'application et les procédures mentionnées dans les articles des présents statuts.
+Le Règlement Intérieur est destiné à :  
+\- Préciser les conditions d'application et les procédures mentionnées dans les articles des présents statuts.  
 \- Fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association. Cela inclut de définir les missions et responsabilités des membres et bénévoles engagés dans le fonctionnement administratif et logistique de l’association, les frais de cotisations, la gestion du matériel.
 
 
