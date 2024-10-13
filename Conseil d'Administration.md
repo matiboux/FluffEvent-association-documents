@@ -18,6 +18,18 @@ graph TB
   CA --- Potit[Potit Cerf]
   CA --- Vadror[Vadror]
   CA --- Yann[Yann]
+
+  style FE fill:#333,color:#eee,stroke:#444,stroke-width:2px
+  style CA fill:#063,color:#eee,stroke:#084,stroke-width:2px
+  style Fluffy fill:#396,color:#eee,stroke:#4c8,stroke-width:2px
+  style Phil fill:#396,color:#eee,stroke:#4c8,stroke-width:2px
+  style Loulou fill:#396,color:#eee,stroke:#4c8,stroke-width:2px
+  style Matiboux fill:#396,color:#eee,stroke:#4c8,stroke-width:2px
+  style Potit fill:#396,color:#eee,stroke:#4c8,stroke-width:2px
+  style Vadror fill:#396,color:#eee,stroke:#4c8,stroke-width:2px
+  style Yann fill:#396,color:#eee,stroke:#4c8,stroke-width:2px
+
+  linkStyle 0,1,2,3,4,5,6,7 color:#ddd,stroke:#ddd,stroke-width:1px
 ```
 
 
