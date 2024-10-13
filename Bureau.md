@@ -13,6 +13,13 @@ graph TB
 
   Bureau -- Président --- Fluffy[Fluffy Tail]
   Bureau -- Trésorier --- Phil[Phil]
+
+  style FE fill:#333,color:#eee,stroke:#444,stroke-width:2px
+  style Bureau fill:#036,color:#eee,stroke:#048,stroke-width:2px
+  style Fluffy fill:#369,color:#eee,stroke:#48c,stroke-width:2px
+  style Phil fill:#369,color:#eee,stroke:#48c,stroke-width:2px
+
+  linkStyle 0,1,2 color:#ddd,stroke:#ddd,stroke-width:1px
 ```
 
 
