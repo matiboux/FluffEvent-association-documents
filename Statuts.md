@@ -146,40 +146,58 @@ Le Conseil d'Administration est composé de 2 membres au minimum.
 
 Les membres du Conseil d'Administration sont :  
 \- les membres fondateurs,  
-\- des membres nommés par le Conseil d'Administration existant et confirmés par l'Assemblée Générale.
+\- les membres mandatés.
 
-Les membres fondateurs sont membres de droit du Conseil d'Administration et bénéficient d'un mandat à durée indéterminée, sous réserve de leur démission ou de leur exclusion pour motif grave.
+Tous les membres du Conseil d'Administration sont des membres de l'Association.
 
-Les membres nommés sont admis au Conseil d'Administration sur proposition d'un membre du Conseil d'Administration existant, approbation à la majorité du Conseil d'Administration puis confirmation par l'Assemblée Générale à la majorité simple des membres présents ou représentés.  
-Les membres nommés et confirmés ont un mandat de 3 ans, renouvelable par un vote lors d'une Assemblée Générale, sous réserve de leur démission, de la révocation de leur mandat ou de leur exclusion pour motif grave.
+Les membres fondateurs sont membres de droit du Conseil d'Administration et bénéficient d'un mandat à durée indéterminée, sous réserve de leur démission ou de leur exclusion.
 
+Les membres mandatés sont admis au Conseil d'Administration après nommination et soumission de leur candidature par le Conseil d'Administration à un vote d'approbation de l'Assemblée Générale. Les membres mandatés ont un mandat de 3 ans, à partir du lendemain de leur élection, sous réserve de leur démission, de la révocation de leur mandat ou de leur exclusion.
+Les conditions de la soumission et du vote des membres candidats sont définies dans le Règlement Intérieur de l'Association.
+
+<!-- TODO: préciser AG ordinaire ? -->
+<!-- TODO: 3 ans et 3 mois pour de la marge jusqu'à la prochaine AG ? -->
+<!-- TODO: 3 ans simple + intérim possible de 3 mois max ? -->
+
+Les membres fondateurs peuvent être réintégrés dans le Conseil d'Administration après leur démission ou exclusion, selon les mêmes modalités d'admission des membres mandatés. Les membres fondateurs réintégrés bénéficient à nouveau d'un mandat à durée indéterminée.
+
+Le mandat des membres mandatés est renouvelable par un vote lors d'une Assemblée Générale, à la demande du membre concerné.
+Les conditions de la demande de renouvellement de mandat sont définies dans le Règlement Intérieur de l'Association.
+
+<!--
+TODO: move to reglement interieur?
 Pour le renouvellement de son mandat, un membre du Conseil d'Administration doit adresser sa candidature par lettre recommandée ou courrier électronique avec accusé de réception au Président du Conseil d'Administration, au moins 2 jours avant l'Assemblée Générale.
+-->
 
-<!-- La démarche de nomination et de confirmation des membres du Conseil d'Administration est définie dans le Règlement Intérieur de l'Association. -->
+Un membre du Conseil d'Administration peut démissionner de son poste en adressant cette demande au Président du Conseil d'Administration.
+La démission du membre prend effet après communication de celle-ci par le Président du Conseil d'Administration aux membres de l'Association, immédiatement ou à une date ultérieure définie par le membre démissionnaire.
+La procédure de démission d'un membre du Conseil d'Administration et les conditions de communication de cette démission sont définies dans le Règlement Intérieur de l'Association.
 
-Un membre du Conseil d'Administration peut démissionner de son poste en adressant un courrier en recommandé ou un courrier électronique avec accusé de réception à l’attention du Président du Conseil d'Administration.
+Un membre mandaté du Conseil d'Administration peut voir son mandat révoqué par l'Assemblée Générale, sur décision prise à la majorité absolue des membres de l'Association, présents et absents.
+Les conditions pour démarrer la procédure de révocation d'un membre du Conseil d'Administration sont définies dans le Règlement Intérieur de l'Association.
 
-<!-- L'exclusion d'un membre du Conseil d'Administration peut être décidée par l'Assemblée Générale pour motif grave, sur décision prise à la majorité des deux tiers des membres présents ou représentés. -->
+Un membre du Conseil d'Administration peut être exclu du Conseil d'Administration pour motif grave ou incapacité, sur demande du Président du Conseil d'Administration et confirmation à la majorité des deux tiers des membres du Conseil d'Administration.
+La procédure d'exclusion d'un membre du Conseil d'Administration et la définition des motifs valables sont définis dans le Règlement Intérieur de l'Association.
 
-La révocation du mandat de membre du Conseil d'Administration peut être décidée, pour motif grave, par :  
-\- le Conseil d'Administration, sur décision prise à la majorité des deux tiers des membres du Conseil d'Administration,  
-\- l'Assemblée Générale, sur décision prise à la majorité absolue des membres de l'Association, présents ou absents.
+<!--
+TODO: move to reglement interieur?
+Motifs =
+- faute grave,
+- non-respect des engagements pris par le membre concerné vis-à-vis de ses fonctions et de l'Association sans motif valable (raisons de santé, familiales ou professionnelles),
+- incapacité de participer activement à l'Association.
+-->
 
-La révocabilité d'un membre du Conseil d'Administration peut également être décidée sur demande du Président du Conseil d'Administration, après confirmation à la majorité des deux tiers des membres du Conseil d'Administration, en cas de faute grave, de non-respect des engagements pris par le membre concerné vis-à-vis de ses fonctions et de l'Association sans motif valable (raisons de santé, familiales ou professionnelles), ou d'incapacité de participer activement à l'Association.
+Le Président du Conseil d'Administration est élu par les membres du Conseil d'Administration, à la majorité des membres du Conseil d'Administration. La durée de son mandat est fixé à 2 ans, renouvelable, conditionné par la validité de son mandat de membre du Conseil d'Administration.
+Le Président du Conseil d'Administration organise et arbitre les réunions du Conseil d'Administration.
 
-<!-- (IDEA) En cas de crise ou de désaccord profond, une AG extraordinaire peut être convoquée par [proportion] des membres pour statuer sur le maintien ou non du CA en place. -->
+<!-- TODO: Confirmer 2 ans ? -->
 
-<!-- (OLD) sera considéré par le Président comme démissionnaire de son poste. -->
+Le Président du Conseil d'Administration peut être destitué à la majorité des deux tiers des membres du Conseil d'Administration, présents et absents. En cas de destitution, l'ancien Président du Conseil d'Administration conserve son mandat de membre du Conseil d'Administration et peut prendre part au vote de l'élection pour son successeur, mais ne peut pas se être candidat à sa propre succession.
 
-<!-- (OLD) Le Conseil peut, s'il le souhaite, accepter un nouveau poste d’un membre de l’association dans le Conseil d’Administration par son propre choix afin de répondre aux besoins administratifs de l'association. Il est procédé au remplacement définitif de cette nouvelle prise en poste par la prochaine Assemblée Générale lors des votes des membres composant le Conseil d’Administration. -->
+Le Conseil d'Administration se réunit selon les besoins de l'Association, au moins une fois par an, aux conditions définies dans le Règlement Intérieur de l'Association, sur convocation du Président du Conseil d'Administration ou à la demande de la moitié des membres du Conseil d'Administration.
 
-Le Conseil d'Administration élit en son sein un Président du Conseil d'Administration, à la majorité des membres du Conseil d'Administration. Le Président organise et arbitre les réunions du Conseil d'Administration.
-
-D'autres rôles organisationnels peuvent être attribués aux membres du Conseil d'Administration, selon les besoins de l'Association et les compétences des membres.
-
-Le Conseil d'Administration se réunit au moins une fois par an, sur convocation du Président du Conseil d'Administration, ou à la demande de la moitié des membres du Conseil d'Administration.
-
-Les décisions courantes sont prises à la majorité des membres du Conseil d'Administration. En cas de partage, la voix du Président du Conseil d'Administration est prépondérante.
+Les décisions ordinaires du Conseil d'Administration sont prises à la majorité des membres du Conseil d'Administration présents.
+En cas de partage, la voix du Président du Conseil d'Administration est prépondérante dans les votes.
 
 
 ## ARTICLE 14 – LE BUREAU 
