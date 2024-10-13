@@ -206,25 +206,54 @@ Le Bureau est l'organe exécutif de l'Association. Il assure la gestion quotidie
 
 Le Bureau est composé de 2 membres au minimum.
 
-Les membres du Bureau sont des membres de l'Association candidats selon les modalités définies dans le Règlement Intérieur de l'Association et élus par l'Assemblée Générale à la majorité des membres présents ou représentés. Les membres du Bureau sont élus pour un mandat de 2 ans, renouvelable, et pour une ou plusieurs fonctions spécifiques au sein du Bureau.
+Les membres du Bureau sont :  
+\- les membres administratifs,  
+\- les membres opérationnels.
+
+Tous les membres du Bureau sont des membres de l'Association.
+Les membres du Bureau peuvent cumuler leur mandat avec celui de membre du Conseil d'Administration.
+
+Les membres administratifs sont élus par l'Assemblée Générale, à la majorité des membres présents ou représentés, pour une ou plusieurs fonctions administratives au sein du Bureau.
+Les conditions de candidature sont définies dans le Règlement Intérieur de l'Association.
 
 <!-- définir modalités candidature nouvelle, définir modalités candidature renouvelée -->
 
-Les candidatures pour les postes du Bureau sont présentées par le CA ou par les membres de l'association. Chaque candidat doit obtenir la majorité des suffrages exprimés par les membres de l'AG pour être élu.
+<!-- Les candidatures pour les postes du Bureau sont présentées par le CA ou par les membres de l'association. Chaque candidat doit obtenir la majorité des suffrages exprimés par les membres de l'AG pour être élu. -->
 
-Le Bureau est composé des fonctions suivantes, partagées entre les membres élus :
+Les fonctions administratives du Bureau sont les suivantes, partagées entre les membres élus :  
+\- Le Président ou la Présidente,  
+\- S'il y a lieu, le Vice-Président ou la Vice-Présidente,  
+\- Le Trésorier ou la Trésorière,  
+\- S'il y a lieu, le Vice-Trésorier ou la Vice-Trésorière,  
+\- Le Secrétaire ou la Secrétaire,  
+\- S'il y a lieu, le Vice-Secrétaire ou la Vice-Secrétaire.
 
-\- Un.e Président.e, et s'il y a lieu, un.e Vice-Président.e
+Des fonctions administratives supplémentaires peuvent être définies, selon les besoins de l'Association, dans le Règlement Intérieur de l'Association.
 
-\- Un.e Trésorier.e, et s'il y a lieu, un.e Vice-Trésorier.e
+Les fonctions de Président et de Trésorier doivent obligatoirement être attribuées. Les autres fonctions sont attribuées selon les besoins de l'Association et si des candidats se présentent à ces postes.
+Les fonctions peuvent être cumulées par un même membre du Bureau, à l'exception des fonctions de Président et de Trésorier qui ne sont pas cumulables entre elles.
 
-\- Un.e Secrétaire, et s'il y a lieu, un.e Vice-Secrétaire
+Le Président du Bureau est le Président de l'Association.
+Le Trésorier du Bureau est le Trésorier de l'Association.
 
-Les fonctions de Président et de Trésorier ne sont pas cumulables.
+Les membres opérationnels sont admis au Bureau après nommination et soumission de leur candidature par le Bureau à un vote d'approbation du Conseil d'Administration.
+Les conditions de la soumission et du vote des membres candidats sont définies dans le Règlement Intérieur de l'Association.
 
-Des fonctions supplémentaires peuvent être créées si nécessaire et définies dans le Règlement Intérieur, à l'initiative du Conseil d'Administration.
+Les membres du Bureau ont un mandat de 2 ans, à partir du lendemain de leur élection, sous réserve de leur démission, de la révocation de leur mandat ou de leur exclusion.
 
-Les membres du Bureau peuvent cumuler leur mandat avec celui de membre du Conseil d'Administration.
+Le mandat des membres du Bureau est renouvelable par un vote lors d'une Assemblée Générale, à la demande du membre concerné.
+Les conditions de la demande de renouvellement de mandat sont définies dans le Règlement Intérieur de l'Association.
+
+Un membre du Bureau peut démissionner de son poste en adressant cette demande au Président du Bureau.
+La démission du membre prend effet après communication de celle-ci par le Président du Bureau aux membres de l'Association, immédiatement ou à une date ultérieure définie par le membre démissionnaire.
+La procédure de démission d'un membre du Bureau et les conditions de communication de cette démission sont définies dans le Règlement Intérieur de l'Association.
+
+Un membre du Bureau peut voir son mandat révoqué par l'Assemblée Générale, sur décision prise à la majorité absolue des membres de l'Association, présents et absents.
+Un membre opérationnel du Bureau peut voir son mandat révoqué par le Conseil d'Administration, sur décision prise à la majorité des deux tiers des membres du Conseil d'Administration.
+Les conditions pour démarrer la procédure de révocation d'un membre du Bureau sont définies dans le Règlement Intérieur de l'Association.
+
+Un membre du Bureau peut être exclu du Bureau pour motif grave ou incapacité, sur demande du Président du Bureau et confirmation à la majorité des deux tiers des membres du Bureau.
+La procédure d'exclusion d'un membre du Bureau et la définition des motifs valables sont définis dans le Règlement Intérieur de l'Association.
 
 Le Bureau est responsable devant le Conseil d'Administration, qui exerce un contrôle régulier sur ses activités : consultation des membres du Bureau, des rapports d'activité, des comptes financiers, etc.
 
@@ -233,6 +262,11 @@ Le Conseil d'Administration peut, à la majorité de ses membres, convoquer une 
 <!-- Le Bureau est également tenu de présenter un rapport moral et financier annuel à l'Assemblée Générale pour approbation. -->
 
 <!-- Les fonctions sont liées au mandat à l'élection du Bureau. Les membres du Bureau sont élus pour une durée de 2 ans, renouvelable. -->
+
+Le Bureau se réunit selon les besoins de l'Association, au moins une fois par an, aux conditions définies dans le Règlement Intérieur de l'Association, sur convocation du Président du Bureau ou à la demande de la moitié des membres du Bureau.
+
+Les décisions ordinaires du Bureau sont prises à la majorité des membres du Bureau présents.
+En cas de partage, la voix du Président du Bureau est prépondérante dans les votes.
 
 
 ## ARTICLE 15 – INDEMNITES
