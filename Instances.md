@@ -4,6 +4,9 @@
 graph LR
 
 AG{{"Assemblée Générale"}}
+AGF{{"Membres fondateurs"}}
+AGA{{"Membres adhérents"}}
+AGT{{"Membres temporaires"}}
 
 BU{{"Bureau"}}
 BUA{{"Membres administratifs<br>du Bureau"}}
@@ -13,11 +16,17 @@ BUM{{"Membres opérationnels<br>du Bureau"}}
 
 CA{{"Conseil d'Administration"}}
 CAP{{"Président du<br>Conseil d'Administration"}}
-CAF{{"Membres fondateurs du<br>Conseil d'Administration<br>(membres de droit)"}}
+CAF{{"Membres fondateurs<br>(membres de droit)"}}
 CAM{{"Membres mandatés du<br>Conseil d'Administration"}}
 
 Statuts([Statuts])
 Reglement([Règlement Intérieur])
+
+subgraph AG[Assemblée Générale]
+  AGF
+  AGA
+  AGT
+end
 
 subgraph Docs[Documents]
   Statuts
@@ -37,6 +46,8 @@ subgraph CA[Conseil d'Administration]
   CAM
 end
 
+AGF --> CAF
+
 AG -->|"Élit en son sein les<br>membres administratifs"| BUA
 AG -->|"Peut révoquer<br>(vote majorité absolue)"| BUA
 
@@ -53,10 +64,13 @@ CA -->|"Contrôle régulier de l'activité"| BU
 CA -->|"Valide la nomination"| BUM
 CA -->|"Peut révoquer un membre<br>(vote deux tiers)"| BUM
 
-CA -->|"Vote les amendements"| Reglement
 AG -->|"Vote les amendements"| Statuts
+CA -->|"Vote les amendements"| Reglement
 
-style AG fill:#600,color:#eee,stroke:#800,stroke-width:2px
+style AG stroke:#600,stroke-width:2px
+style AGF fill:#c80,color:#eee,stroke:#fa0,stroke-width:2px
+style AGA fill:#900,color:#eee,stroke:#c00,stroke-width:2px
+style AGT fill:#900,color:#eee,stroke:#c00,stroke-width:2px
 
 style BU stroke:#369,stroke-width:2px
 style BUA fill:#369,color:#eee,stroke:#48c,stroke-width:2px
