@@ -226,13 +226,10 @@ Les conditions de candidature sont définies dans le Règlement Intérieur de l'
 
 <!-- Les candidatures pour les postes du Bureau sont présentées par le CA ou par les membres de l'association. Chaque candidat doit obtenir la majorité des suffrages exprimés par les membres de l'AG pour être élu. -->
 
-Les fonctions administratives du Bureau sont les suivantes, partagées entre les membres élus :  
+Les fonctions administratives du Bureau sont principalement les suivantes, partagées entre les membres élus :  
 \- Le Président ou la Présidente,  
-\- S'il y a lieu, le Vice-Président ou la Vice-Présidente,  
 \- Le Trésorier ou la Trésorière,  
-\- S'il y a lieu, le Vice-Trésorier ou la Vice-Trésorière,  
-\- Le Secrétaire ou la Secrétaire,  
-\- S'il y a lieu, le Vice-Secrétaire ou la Vice-Secrétaire.
+\- Le Secrétaire ou la Secrétaire.
 
 Des fonctions administratives supplémentaires peuvent être définies, selon les besoins de l'Association, dans le Règlement Intérieur de l'Association.
 
