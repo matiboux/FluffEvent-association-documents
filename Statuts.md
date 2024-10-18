@@ -158,7 +158,8 @@ Les conditions de la soumission et du vote des membres candidats sont définies 
 
 <!-- TODO: préciser AG ordinaire ? -->
 
-Les membres fondateurs peuvent être réintégrés dans le Conseil d'Administration après leur démission ou exclusion, selon les mêmes modalités d'admission des membres mandatés. Les membres fondateurs réintégrés bénéficient à nouveau d'un mandat à durée indéterminée.
+Les membres fondateurs peuvent être réintégrés dans le Conseil d'Administration, après leur démission ou exclusion, sur simple nommination du Conseil d'Administration selon les mêmes modalités que pour les membres mandatés.
+Les membres fondateurs réintégrés bénéficient à nouveau d'un mandat à durée indéterminée.
 
 Le mandat des membres mandatés est renouvelable par un vote lors d'une Assemblée Générale, à la demande du membre concerné.
 Les conditions de la demande de renouvellement de mandat sont définies dans le Règlement Intérieur de l'Association.
