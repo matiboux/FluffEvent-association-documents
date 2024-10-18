@@ -195,10 +195,8 @@ Motifs =
 - incapacité de participer activement à l'Association.
 -->
 
-Le Président du Conseil d'Administration est élu par les membres du Conseil d'Administration, à la majorité des membres du Conseil d'Administration. La durée de son mandat est fixé à 2 ans, renouvelable, conditionné par la validité de son mandat de membre du Conseil d'Administration.
+Le Président du Conseil d'Administration est élu par les membres du Conseil d'Administration, à la majorité des membres du Conseil d'Administration. La durée de son mandat est fixé à 1 an, renouvelable, conditionné par la validité de son mandat de membre du Conseil d'Administration.
 Le Président du Conseil d'Administration organise et arbitre les réunions du Conseil d'Administration.
-
-<!-- TODO: Confirmer 2 ans ? -->
 
 Le Président du Conseil d'Administration peut être destitué à la majorité des deux tiers des membres du Conseil d'Administration, présents et absents. En cas de destitution, l'ancien Président du Conseil d'Administration conserve son mandat de membre du Conseil d'Administration et peut prendre part au vote de l'élection pour son successeur, mais ne peut pas se être candidat à sa propre succession.
 
