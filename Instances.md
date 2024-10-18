@@ -6,12 +6,12 @@ graph LR
 AG{{"Assemblée Générale"}}
 
 BU{{"Bureau"}}
-BUA{{"Membres administratifs<br>du Bureau"}}
+BUA{{"Membres administratifs<br>(président, trésorier, etc.)<br>du Bureau"}}
 BUM{{"Membres opérationnels<br>du Bureau"}}
 
 CA{{"Conseil d'Administration"}}
 CAP{{"Président du<br>Conseil d'Administration"}}
-CAF{{"Membres fondateurs<br>(membres de droit)"}}
+CAF{{"Membres fondateurs<br>(membres de droit du<br>Conseil d'Administration)"}}
 CAM{{"Membres mandatés du<br>Conseil d'Administration"}}
 
 Statuts([Statuts])
