@@ -152,7 +152,7 @@ Tous les membres du Conseil d'Administration sont des membres de l'Association.
 
 Les membres fondateurs sont membres de droit du Conseil d'Administration et bénéficient d'un mandat à durée indéterminée, sous réserve de leur démission ou de leur exclusion.
 
-Les membres mandatés sont admis au Conseil d'Administration après nommination et soumission de leur candidature par le Conseil d'Administration à un vote d'approbation de l'Assemblée Générale. Les membres mandatés ont un mandat de 3 ans, à partir du lendemain de leur élection, sous réserve de leur démission, de la révocation de leur mandat ou de leur exclusion.
+Les membres mandatés sont admis au Conseil d'Administration après nommination et soumission de leur candidature par le Conseil d'Administration à un vote d'approbation de l'Assemblée Générale. Les membres mandatés ont un mandat de 2 ans, à partir du lendemain de leur élection, sous réserve de leur démission, de la révocation de leur mandat ou de leur exclusion.
 Les conditions de la soumission et du vote des membres candidats sont définies dans le Règlement Intérieur de l'Association.
 
 <!-- TODO: préciser AG ordinaire ? -->
@@ -239,7 +239,7 @@ Le Trésorier du Bureau est le Trésorier de l'Association.
 Les membres opérationnels sont admis au Bureau après nommination et soumission de leur candidature par le Bureau à un vote d'approbation du Conseil d'Administration.
 Les conditions de la soumission et du vote des membres candidats sont définies dans le Règlement Intérieur de l'Association.
 
-Tous les membres du Bureau ont un mandat de 2 ans, à partir du lendemain de leur élection, sous réserve de leur démission, de la révocation de leur mandat ou de leur exclusion.
+Tous les membres du Bureau ont un mandat de 1 an, à partir du lendemain de leur élection, sous réserve de leur démission, de la révocation de leur mandat ou de leur exclusion.
 
 Le mandat des membres du Bureau est renouvelable par un vote lors d'une Assemblée Générale, à la demande du membre concerné.
 Les conditions de la demande de renouvellement de mandat sont définies dans le Règlement Intérieur de l'Association.
