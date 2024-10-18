@@ -156,8 +156,6 @@ Les membres mandatés sont admis au Conseil d'Administration après nommination 
 Les conditions de la soumission et du vote des membres candidats sont définies dans le Règlement Intérieur de l'Association.
 
 <!-- TODO: préciser AG ordinaire ? -->
-<!-- TODO: 3 ans et 3 mois pour de la marge jusqu'à la prochaine AG ? -->
-<!-- TODO: 3 ans simple + intérim possible de 3 mois max ? -->
 
 Les membres fondateurs peuvent être réintégrés dans le Conseil d'Administration après leur démission ou exclusion, selon les mêmes modalités d'admission des membres mandatés. Les membres fondateurs réintégrés bénéficient à nouveau d'un mandat à durée indéterminée.
 
@@ -178,6 +176,16 @@ Les conditions pour démarrer la procédure de révocation d'un membre du Consei
 
 Un membre du Conseil d'Administration peut être exclu du Conseil d'Administration pour motif grave ou incapacité, sur demande du Président du Conseil d'Administration et confirmation à la majorité des deux tiers des membres du Conseil d'Administration.
 La procédure d'exclusion d'un membre du Conseil d'Administration et la définition des motifs valables sont définis dans le Règlement Intérieur de l'Association.
+
+La démission, la révocation ou l'exclusion d'un membre entraîne automatiquement la fin non naturelle de son mandat et la fin de ses fonctions.
+
+Lorsque un membre du Conseil d'Administration atteint la fin naturelle de son mandat, ce dernier a la possibilité d'assurer son propre intérim pour une durée de 2 mois maximum à partir de la fin de son mandat et jusqu'à la prochaine Assemblée Générale.
+Dans le cas où le membre concerné a préablement soumis une demande valide de renouvellement de mandat, cette possibilité est automatiquement accordée.
+Dans le cas contraire, cette possibilité est conditionnée à l'approbation du Conseil d'Administration.
+
+Si un membre du Conseil d'Administration ne peut pas assurer son propre intérim, le Conseil d'Administration désigne un autre membre du Conseil d'Administration pour assurer l'intérim du membre concerné et de ses fonctions.
+Cet intérim ne donne pas de droit de vote supplémentaire au membre désigné.
+Les conditions de désignation de l'intérim du membre du Conseil d'Administration sont définies dans le Règlement Intérieur de l'Association.
 
 <!--
 TODO: move to reglement interieur?
@@ -254,6 +262,16 @@ Les conditions pour démarrer la procédure de révocation d'un membre du Bureau
 
 Un membre du Bureau peut être exclu du Bureau pour motif grave ou incapacité, sur demande du Président du Bureau et confirmation à la majorité des deux tiers des membres du Bureau.
 La procédure d'exclusion d'un membre du Bureau et la définition des motifs valables sont définis dans le Règlement Intérieur de l'Association.
+
+La démission, la révocation ou l'exclusion d'un membre entraîne automatiquement la fin non naturelle de son mandat et la fin de ses fonctions.
+
+Lorsque un membre du Bureau atteint la fin naturelle de son mandat, ce dernier a la possibilité d'assurer son propre intérim pour une durée de 2 mois maximum à partir de la fin de son mandat et jusqu'à la prochaine Assemblée Générale pour les membres administratifs ou jusqu'au la prochaine réunion du Conseil d'Administration pour les membres opérationnels.
+Dans le cas où le membre concerné a préablement soumis une demande valide de renouvellement de mandat, cette possibilité est automatiquement accordée.
+Dans le cas contraire, cette possibilité est conditionnée à l'approbation du Bureau.
+
+Si un membre du Bureau ne peut pas assurer son propre intérim, le Bureau désigne un autre membre du Bureau pour assurer l'intérim du membre concerné et de ses fonctions.
+Cet intérim ne donne pas de droit de vote supplémentaire au membre désigné.
+Les conditions de désignation de l'intérim du membre du Bureau sont définies dans le Règlement Intérieur de l'Association.
 
 Le Bureau est responsable devant le Conseil d'Administration qui exerce un contrôle régulier sur ses activités : consultation des membres du Bureau, des rapports d'activité, des comptes financiers, etc.
 
