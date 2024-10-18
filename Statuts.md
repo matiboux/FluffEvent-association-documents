@@ -138,7 +138,7 @@ Les modalités de convocation sont les mêmes que pour l’Assemblée Générale
 Les délibérations sont prises à la majorité relative des membres présents ou représentés.
 
 
-## ARTICLE 13 - CONSEIL D'ADMINISTRATION
+## ARTICLE 13 – CONSEIL D'ADMINISTRATION
 
 Le Conseil d'Administration est l'organe décisionnel de l'Association. Il assure la gestion et la direction de l'Association, et veille à la réalisation de ses objectifs et de ses missions dans le respect des présents statuts, du Règlement Intérieur et des décisions prises par l'Assemblée Générale.
 
@@ -200,7 +200,7 @@ Les décisions ordinaires du Conseil d'Administration sont prises à la majorit�
 En cas de partage, la voix du Président du Conseil d'Administration est prépondérante dans les votes.
 
 
-## ARTICLE 14 – LE BUREAU 
+## ARTICLE 14 – LE BUREAU
 
 Le Bureau est l'organe exécutif de l'Association. Il assure la gestion quotidienne de l'Association et l'exécution des décisions prises par le Conseil d'Administration et l'Assemblée Générale.
 
@@ -239,7 +239,7 @@ Le Trésorier du Bureau est le Trésorier de l'Association.
 Les membres opérationnels sont admis au Bureau après nommination et soumission de leur candidature par le Bureau à un vote d'approbation du Conseil d'Administration.
 Les conditions de la soumission et du vote des membres candidats sont définies dans le Règlement Intérieur de l'Association.
 
-Les membres du Bureau ont un mandat de 2 ans, à partir du lendemain de leur élection, sous réserve de leur démission, de la révocation de leur mandat ou de leur exclusion.
+Tous les membres du Bureau ont un mandat de 2 ans, à partir du lendemain de leur élection, sous réserve de leur démission, de la révocation de leur mandat ou de leur exclusion.
 
 Le mandat des membres du Bureau est renouvelable par un vote lors d'une Assemblée Générale, à la demande du membre concerné.
 Les conditions de la demande de renouvellement de mandat sont définies dans le Règlement Intérieur de l'Association.
@@ -276,7 +276,7 @@ Toutes les fonctions, y compris celles des membres du conseil d’administration
 Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 
 
-## ARTICLE 16 - REGLEMENT INTERIEUR 
+## ARTICLE 16 – REGLEMENT INTERIEUR
 
 Un Règlement Intérieur peut être établi et modifié par le Conseil d'Administration.
 
